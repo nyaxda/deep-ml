@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T14:46:48.898Z",
+  "generated_at": "2026-10-26T11:02:39.216Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -156,6 +156,19 @@
       "last_pushed_at": "2026-10-25T14:42:52.356Z",
       "language": "python",
       "lines": 85
+    },
+    "problem:13": {
+      "kind": "problem",
+      "id": "13",
+      "title": "Determinant of a 4x4 Matrix using Laplace's Expansion (hard)",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/13",
+      "path": "problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard",
+      "first_solved_at": "2026-10-26T10:58:42.005Z",
+      "last_pushed_at": "2026-10-26T10:58:42.005Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }
