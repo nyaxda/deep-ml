@@ -35,4 +35,4 @@ def pegasos_kernel_svm(data: np.ndarray, labels: np.ndarray, kernel='linear', la
             else:
                 alpha[i] = (1 - nt * lambda_val) * alpha[i]
 
-    return alpha, b
+    return alpha.tolist(), b
