@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T08:47:05.965Z",
+  "generated_at": "2026-11-05T09:22:28.975Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -364,6 +364,19 @@
       "last_pushed_at": "2026-11-05T08:47:04.768Z",
       "language": "python",
       "lines": 44
+    },
+    "problem:29": {
+      "kind": "problem",
+      "id": "29",
+      "title": "Random Shuffle of Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/29",
+      "path": "problems/0029-random-shuffle-of-dataset",
+      "first_solved_at": "2026-11-05T09:22:27.398Z",
+      "last_pushed_at": "2026-11-05T09:22:27.398Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
